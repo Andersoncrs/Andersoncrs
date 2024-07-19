@@ -1,4 +1,7 @@
 <h1 align = "center"> Hola, Soy Anderson Rodríguez!👋</h1>
+
+![](https://komarev.com/ghpvc/?username=Andersoncrs&style=plastic&color=blueviolet)
+
 <p>Soy estudiante de Ingeniería de Sistemas 💻, apasionado por la tecnología con un enfoque analítico. Me especializo en la aplicación de metodologías de investigación, identificando posibles áreas de mejora y generando insights estratégicos que permiten una mejor toma de decisiones empresariales basadas en datos.</p>
 <p>Cuento con una sólida formación en herramientas avanzadas, lo que me permite realizar análisis detallados y visualizaciones efectivas para respaldar estrategias de negocio. Me considero una persona abierta a nuevas oportunidades y desafíos, siempre dispuesto a aprender y adquirir nuevos conocimientos que puedan ser aplicados en el ámbito profesional. Asimismo, me apasiona aplicar y compartir dichos conocimientos con el fin de desarrollar soluciones innovadoras que impulsen el crecimiento y la transformación tanto en el ámbito personal como profesional.</p>
 <section>
